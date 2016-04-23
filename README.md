@@ -1,2 +1,4 @@
-# cocos2d-demo
-cocos2d demo
+# Cocos2d Demo
+
+## Maze
+![Maze Menu](maze.png)
